@@ -13,4 +13,4 @@ Click to Photon - one of the most respected ways to measure latency for gaming. 
 > All related settings have been enabled or changed such as PCI delay Optimization, Legacy IO Latency , Interrupt redirection mode selection was set to [fixed priority], automatic overclock, AP threads Idle manner was set to [Run Loop] and FCLK frequency for Early Power On was set to [1Ghz]
 > 
 
-> Though turbo boost 3.0 was disabled, some other things were changed
+> Though turbo boost 3.0 was disabled. A few other settings were changed
