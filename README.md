@@ -8,11 +8,7 @@ Click to Photon - one of the most respected ways to measure latency for gaming. 
 
 # Bios Settings 
 
-### All ASPM ,L substates, C states, and c states related settings such as ME states and acoustic mitigation were disabled
-
-### software guard extensions were disabled
-### hyperthreading disabled 
-### rc6 disabled
-## speedshift disabled
-### all power gating was disabled
-### all OBFF, LTR and power downs were disabled
+> [!NOTE]
+> All related settings have been disabled such as  ASPM, LTR, OBFF, PowerDown settings, Power saving states, Power gating , Dynamic Intel techologies, Mitigations (excluding turbo boost and speedstep) 
+> [!NOTE]
+> Though turbo boost 3.0 was disabled, some other things were changed
