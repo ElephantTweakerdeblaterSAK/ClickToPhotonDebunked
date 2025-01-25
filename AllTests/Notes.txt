@@ -160,3 +160,4 @@ Total System Input Lag (ms) : 12.38275
 5 tests(test 2 2nd row outlier excluded)
 Total  System Input Lag (ms): 12.4410921843687
 -----------------------------------
+58.3421843687000035 μs variance when comparing both (outlier excluded)
