@@ -149,15 +149,19 @@ Weird Notes test 6 has only 99 samples
 5 vs 5 tests  
 
 5 tests 
-Total System Input Lag (ms) : 12.540446
-
+Total System Input Lag (ms) : 12.540446 avg
+Total System Input Lag (ms) : 3.2121670188516 stdev
 -----------------------------------------------
 Another 5 Tests
-Total System Input Lag (ms) : 12.38275
+Total System Input Lag (ms) : 12.38275 avg
+Total System Input Lag (ms) : 2.37078519152383 stdev
 
 
 ---------------------------------------
 5 tests(test 2 2nd row outlier excluded)
-Total  System Input Lag (ms): 12.4410921843687
+Total  System Input Lag (ms): 12.4410921843687 avg
+Total  System Input Lag (ms) : 2.32233389122416 stdev
 -----------------------------------
-58.3421843687000035 μs variance when comparing both (outlier excluded)
+58.3421843687000035 μs avg difference between the 2 sets of 5 tests when comparing both (outlier excluded)
+48.4513002996700024 μs stdev difference between the 2 sets of 5 tests when comparing both (outlier excluded)
+
