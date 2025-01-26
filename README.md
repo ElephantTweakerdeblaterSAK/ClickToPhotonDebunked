@@ -17,3 +17,9 @@ Click to Photon - one of the most respected ways to measure latency for gaming. 
 
 
 # Bios was set back to defaults after tweaked configuration (Settings were checked to make sure they reverted)
+
+
+### Latency Tool
+https://www.osrtt.com/osltt
+
+65ksps 
