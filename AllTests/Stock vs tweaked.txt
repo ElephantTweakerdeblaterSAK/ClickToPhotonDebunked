@@ -1,0 +1,22 @@
+Stock vs tweaked
+
+Total System Input Lag (ms) 1000 samples stock : 2.40145718695374 stdev 
+Total System Input Lag (ms) 1000 samples stock : 12.706457 avg
+
+
+Total System Input Lag (ms) 999 samples tweaked : 2.82409992856889 stdev
+Total System Input Lag (ms) 999 samples tweaked : 12.4615045045045 avg
+
+
+Total System Input Lag (ms) 998 samples tweaked (excluding 62.118 outlier) : 2.34688617021802 stdev
+Total System Input Lag (ms) 998 samples tweaked (excluding 62.118 outlier) : 12.411748496994 avg
+
+
+244.952495495499988 μs avg difference between the stock and tweaked  configurations when comparing both  [Total System Input Lag]
+422.642741615149987 μs stdev difference between the stock and tweaked configurations when comparing both  [Total System Input Lag]
+
+294.708503006 μs avg difference between the stock and tweaked  configurations when comparing both  [Total System Input Lag] (excluding outlier)
+54.57101673572000067 μs stdev difference between the stock and tweaked configurations when comparing both  [Total System Input Lag] (excluding outlier)
+
+
+
