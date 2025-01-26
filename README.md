@@ -6,7 +6,7 @@ Click to Photon - one of the most respected ways to measure latency for gaming. 
 
 
 
-# Bios Settings
+# Bios Settings for Tweaked Configuration
 
 > [!NOTE] 
 > All related settings have been disabled such as  ASPM, LTR, OBFF, PowerDown settings,Memory power savers, Power saving states, Power gating, Clock gating , Dynamic Intel techologies, (excluding turbo boost and speedstep),Mitigations, All power management settings, MachineCheck and MonitorMWait ,Integrated gpu, event producing settings and watch dog settings.
@@ -14,3 +14,6 @@ Click to Photon - one of the most respected ways to measure latency for gaming. 
 > 
 
 > Though turbo boost 3.0 was disabled. A few other settings were changed
+
+
+# Bios was set back to defaults after tweaked configuration (Settings were checked to make sure they reverted)
