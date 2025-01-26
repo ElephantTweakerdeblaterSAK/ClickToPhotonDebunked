@@ -165,5 +165,5 @@ Total  System Input Lag (ms) : 2.32233389122416 stdev
 58.3421843687000035 μs avg difference between the 2 sets of 5 tests when comparing both (outlier excluded) [Total System Input Lag]
 48.4513002996700024 μs stdev difference between the 2 sets of 5 tests when comparing both (outlier excluded) [Total System Input Lag]
 
-157.696 μs avg difference between the 2 sets of 5 tests when comparing both (outlier excluded) [Total System Input Lag]
-841.3818273277699973 μs stdev difference between the 2 sets of 5 tests when comparing both (outlier excluded) [Total System Input Lag]
+157.696 μs avg difference between the 2 sets of 5 tests when comparing both  [Total System Input Lag]
+841.3818273277699973 μs stdev difference between the 2 sets of 5 tests when comparing both [Total System Input Lag]
