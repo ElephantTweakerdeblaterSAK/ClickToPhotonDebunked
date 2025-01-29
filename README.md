@@ -51,7 +51,145 @@ Lets first start off by observing the so-called jitter visually with data across
 
 ![Test10Pic](https://github.com/user-attachments/assets/ac1a915d-2d3b-4aa5-9e99-66e1256e029c)
 
-These pictures contain about 36 tests each, when we carefully look at these pictures we see tons of jitter, between all of these tests, across both stock and tweaked. This is showcases how inconsistent latency really is. Now that you visually see this variance we can now question if each full 100 sample tests translates to consistent stdevs across all tests (spoiler it is absolutely inconsistent.
+These pictures contain about 36 tests each, when we carefully look at these pictures we see tons of jitter, between all of these tests, across both stock and tweaked. This showcases how inconsistent latency really is. Now that you visually see this variance we can now question if each full 100 sample tests translates to consistent stdevs across all tests (spoiler it is absolutely inconsistent. Starting with Stock
+-----------------------------------------------
+Test1 Reported avgs
+Click Time (ms) : 0.522  avg
+Processing latency (ms) : 0 avg
+Display Latency (ms) : 12.487 avg
+Total System Input Lag (ms) : 13.009 avg
+
+
+Test1 calculated my self
+Total System Input Lag (ms) : 2.39924300037501  stdev
+Display Latency (ms) : 2.3625156756254  stdev
+Click Time (ms) : 0.296819635571176 stdev
+----------------------------------
+Test2 Reported avgs
+Click Time (ms) : 0.491  avg
+Processing latency (ms) : 0 avg
+Display Latency (ms) : 12.409 avg
+Total System Input Lag (ms) : 12.9 avg
+
+
+Test2 calculated my self
+Total System Input Lag (ms) : 2.34485888744295  stdev
+Display Latency (ms) : 2.33775105333603  stdev
+Click Time (ms) : 0.282524670416478  stdev
+----------------------------------
+
+Test3 Reported avgs
+Click Time (ms) : 0.52 avg
+Processing latency (ms) : 0 avg
+Display Latency (ms) : 11.907 avg
+Total System Input Lag (ms) : 12.427 avg
+
+
+Test3 calculated my self
+Total System Input Lag (ms) : 2.1827280773603  stdev
+Display Latency (ms) : 2.18330055536349  stdev
+Click Time (ms) : 0.295324786797468   stdev
+----------------------------------
+
+Test4 Reported avgs
+Click Time (ms) : 0.476 avg
+Processing latency (ms) : 0 avg
+Display Latency (ms) : 12.503 avg
+Total System Input Lag (ms) : 12.979 avg
+
+
+Test4 calculated my self
+Total System Input Lag (ms) : 2.25558437911623  stdev
+Display Latency (ms) : 2.25556672051772  stdev
+Click Time (ms) : 0.283919998690768  stdev
+----------------------------------
+> [!NOTE]
+> I will explain the results of test 5 and why it looks different then the rest.
+
+
+Test5 Reported avgs
+Click Time (ms) : 0.499 avg
+Processing latency (ms) : 0 avg
+Display Latency (ms) : 12.384 avg
+Total System Input Lag (ms) : 12.882 avg
+
+
+
+Test5 calculated my self
+Total System Input Lag (ms) : 3.04697581912349  stdev
+Display Latency (ms) : 3.04594792389012  stdev
+Click Time (ms) : 0.259466134883755 stdev
+----------------------------------
+
+Test6 Reported avgs
+Click Time (ms) : 0.494 avg
+Processing latency (ms) : 0 avg
+Display Latency (ms) : 12.225 avg
+Total System Input Lag (ms) : 12.719 avg
+
+
+Test6 calculated my self
+Total System Input Lag (ms) : 2.20516061787029 stdev
+Display Latency (ms) : 2.14360938888623 stdev
+Click Time (ms) : 0.283025089190183 stdev
+----------------------------------
+
+Test7 Reported avgs
+Click Time (ms) : 0.535 avg
+Processing latency (ms) : 0 avg
+Display Latency (ms) : 11.898 avg
+Total System Input Lag (ms) : 12.433 avg
+
+
+Test7 calculated my self
+Total System Input Lag (ms) : 2.38427259159059  stdev
+Display Latency (ms) : 2.31404052318219  stdev
+Click Time (ms) : 0.295918780830965  stdev
+----------------------------------
+
+Test8 Reported avgs
+Click Time (ms) : 0.531 avg
+Processing latency (ms) : 0 avg
+Display Latency (ms) : 11.988 avg
+Total System Input Lag (ms) : 12.519 avg
+
+
+Test8 calculated my self
+Total System Input Lag (ms) : 2.44709452538344  stdev
+Display Latency (ms) : 2.42831618770595 stdev
+Click Time (ms) : 0.289217908131288  stdev
+----------------------------------
+
+Test9 Reported avgs
+Click Time (ms) : 0.532 avg
+Processing latency (ms) : 0 avg
+Display Latency (ms) : 12.089 avg
+Total System Input Lag (ms) : 12.621 avg
+
+
+Test9 calculated my self
+Total System Input Lag (ms) : 2.33591655489106 stdev
+Display Latency (ms) : 2.38349832552443  stdev
+Click Time (ms) : 0.291661149038719  stdev
+----------------------------------
+
+Test10 Reported avgs
+Click Time (ms) : 0.517 avg
+Processing latency (ms) : 0 avg
+Display Latency (ms) : 12.058 avg
+Total System Input Lag (ms) : 12.575 avg
+
+
+Test10 calculated my self
+Total System Input Lag (ms) : 2.31509553305511  stdev
+Display Latency (ms) : 2.26721878683416  stdev
+Click Time (ms) : 0.285038919192705 stdev
+----------------------------------
+
+
+
+
+
 
 # Bios Settings for Tweaked Configuration
 
