@@ -51,7 +51,7 @@ Lets first start off by observing the so-called jitter visually with data across
 
 ![Test10Pic](https://github.com/user-attachments/assets/ac1a915d-2d3b-4aa5-9e99-66e1256e029c)
 
-
+These pictures contain about 36 tests each, when we carefully look at these pictures we see tons of jitter, between all of these tests, across both stock and tweaked. This is showcases how inconsistent latency really is.
 
 # Bios Settings for Tweaked Configuration
 
