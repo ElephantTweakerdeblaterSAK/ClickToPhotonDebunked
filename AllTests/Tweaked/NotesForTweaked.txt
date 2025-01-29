@@ -1,0 +1,204 @@
+Test1 Reported avgs
+Click Time (ms) : 0.484 avg
+Processing latency (ms) : 0 avg
+Display Latency (ms) : 11.929 avg
+Total System Input Lag (ms) : 12.413 avg
+
+
+Test1 calculated my self
+Total System Input Lag (ms) : 2.25142271381068 stdev
+Display Latency (ms) : 2.27954781853106 stdev
+Click Time (ms) : 0.279979486081146  stdev
+----------------------------------
+
+
+Test2 Reported avgs
+Click Time (ms) : 0.534  avg
+Processing latency (ms) : 0 avg
+Display Latency (ms) : 12.282  avg
+Total System Input Lag (ms) : 12.816 avg
+
+
+Test2 calculated my self
+Total System Input Lag (ms) : 5.54903155786683  stdev
+Display Latency (ms) : 5.54122592482016 stdev
+Click Time (ms) : 0.282391066867323 stdev
+----------------------------------
+
+
+Test3 Reported avgs
+Click Time (ms) : 0.535  avg
+Processing latency (ms) : 0 avg
+Display Latency (ms) : 11.996  avg
+Total System Input Lag (ms) : 12.532 avg
+
+
+Test3 calculated my self
+Total System Input Lag (ms) : 2.24737288208057   stdev
+Display Latency (ms) : 2.26210387538466  stdev
+Click Time (ms) : 0.298888081482894 stdev
+----------------------------------
+
+Test4 Reported avgs
+Click Time (ms) : 0.532 avg
+Processing latency (ms) : 0 avg
+Display Latency (ms) : 11.854  avg
+Total System Input Lag (ms) : 12.386 avg
+
+
+Test4 calculated my self
+Total System Input Lag (ms) : 2.36293977598869  stdev
+Display Latency (ms) : 2.39052156990093  stdev
+Click Time (ms) : 0.286543986962991  stdev
+----------------------------------
+
+Test5 Reported avgs
+Click Time (ms) : 0.482 avg
+Processing latency (ms) : 0 avg
+Display Latency (ms) : 12.074  avg
+Total System Input Lag (ms) : 12.555 avg
+
+
+Test5 calculated my self
+Total System Input Lag (ms) : 2.32263219532225  stdev
+Display Latency (ms) : 2.26883118968176  stdev
+Click Time (ms) : 0.322384658099262  stdev
+----------------------------------
+
+Test6 Reported avgs
+Click Time (ms) : 0.521 avg
+Processing latency (ms) : 0 avg
+Display Latency (ms) : 11.866  avg
+Total System Input Lag (ms) : 12.388 avg
+
+
+Test6 calculated my self
+Total System Input Lag (ms) : 2.55132784991926 stdev
+Display Latency (ms) : 2.53142688261958 stdev
+Click Time (ms) : 0.298759214474389  stdev
+----------------------------------
+
+
+
+Test7 Reported avgs
+Click Time (ms) : 0.554 avg
+Processing latency (ms) : 0 avg
+Display Latency (ms) : 12.516  avg
+Total System Input Lag (ms) : 13.07 avg
+
+
+Test7 calculated my self
+Total System Input Lag (ms) : 2.6837088605288  stdev
+Display Latency (ms) : 2.64562063719642 stdev
+Click Time (ms) : 0.295337984093623 stdev
+----------------------------------
+
+
+Test8 Reported avgs
+Click Time (ms) : 0.495  avg
+Processing latency (ms) : 0 avg
+Display Latency (ms) : 11.504  avg
+Total System Input Lag (ms) : 11.999 avg
+
+
+Test8 calculated my self
+Total System Input Lag (ms) : 2.11541848616678  stdev
+Display Latency (ms) : 2.14749891979136  stdev
+Click Time (ms) : 0.29695309206824  stdev
+----------------------------------
+
+Test9 Reported avgs
+Click Time (ms) : 0.498 avg
+Processing latency (ms) : 0 avg
+Display Latency (ms) : 11.547  avg
+Total System Input Lag (ms) : 12.045 avg
+
+
+Test9 calculated my self
+Total System Input Lag (ms) : 2.08570316653374  stdev
+Display Latency (ms) : 2.05843741177181  stdev
+Click Time (ms) : 0.291981275171037 stdev
+----------------------------------
+
+Test10 Reported avgs
+Click Time (ms) : 0.479 avg
+Processing latency (ms) : 0 avg
+Display Latency (ms) : 11.931  avg
+Total System Input Lag (ms) : 12.41 avg
+
+
+Test10 calculated my self
+Total System Input Lag (ms) : 2.26193839335945  stdev
+Display Latency (ms) : 2.25823394615251  stdev
+Click Time (ms) : 0.256073451426056 stdev
+----------------------------------
+(accidently took all this extra stuff LOL)
+All tests combined  (including weird test 2 outlier)
+Total System Input Lag (ms) : 2.82409992856889 stdev
+Total System Input Lag (ms) : 12.4615045045045 avg
+Display Latency (ms) : 2.81719078142625 stdev
+Display Latency (ms) : 11.9500940940941 avg
+Click Time (ms) : 0.291183204678331 stdev
+Click Time (ms) : 0.511408408408408 avg
+
+All tests combined (Excluding test 2 outlier )
+Total System Input Lag (ms) : 2.34688617021802 stdev
+Total System Input Lag (ms) : 12.411748496994 avg
+Display Latency (ms) : 2.34318325652919 stdev
+Display Latency (ms) : 11.9005561122244 avg
+Click Time (ms) : 0.291247601404074 stdev
+Click Time (ms) : 0.511190380761523 avg
+
+
+--------------------------------------
+weird notes
+Test 2 had an outlier on the second row of 62.118
+Test 6 only has 99 samples
+
+--------------------------------------------------
+
+5 vs 5 tests  
+
+499 samples 
+
+Total System Input Lag (ms) : 12.5463386773547  avg
+Total System Input Lag (ms) : 3.21268410838166 stdev
+Display Latency (ms) : 3.21294184309526 stdev                         
+Display Latency (ms) : 12.031993987976 avg
+Click Time (ms) : 0.514342685370742 avg
+Click Time (ms) : 0.293859166336808 stdev
+
+Another 499 samples 
+
+Total System Input Lag (ms) : 12.37684  avg
+Total System Input Lag (ms) : 2.37403588835519 stdev
+Display Latency (ms) : 2.35741767747001 stdev                         
+Display Latency (ms) : 11.868358 avg
+Click Time (ms) : 0.50848 avg
+Click Time (ms) : 0.288752415600338 stdev
+
+
+498 samples (outlier excluded)
+
+Total System Input Lag (ms) : 12.446797188755  avg
+Total System Input Lag (ms) : 2.32116621824211 stdev
+Display Latency (ms) : 2.33072635514022 stdev                         
+Display Latency (ms) : 11.9328835341365 avg
+Click Time (ms) : 0.513439759036145 avg
+Click Time (ms) : 0.293460929749222 stdev
+
+
+Another 498 samples 
+
+Total System Input Lag (ms) : 12.3889578313253  avg
+Total System Input Lag (ms) : 2.37103620477101 stdev
+Display Latency (ms) : 2.35239021771009 stdev                         
+Display Latency (ms) : 11.8818995983936 avg
+Click Time (ms) : 0.507377510040161 avg
+Click Time (ms) : 0.288872139073017 stdev
+
+
+notes
+----------------------------- 
+for another 498 you have to delete the 2 last numbers from the end of the file to get 498 samples (note for my self) (ofc I get the another 498 samples from the excluded files because its for the excluded tests "elephant")
+The notes are mostly for me to remember
