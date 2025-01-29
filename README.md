@@ -57,7 +57,7 @@ These pictures contain about 36 tests each, when we carefully look at these pict
 
 
 # Test1 Reported avgs
-## Click Time (ms) : 0.522  avg
+ Click Time (ms) : 0.522  avg
 Processing latency (ms) : 0 avg
 Display Latency (ms) : 12.487 avg
 Total System Input Lag (ms) : 13.009 avg
