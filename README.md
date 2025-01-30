@@ -354,7 +354,7 @@ Lets show 999 samples vs 999 samples now (honestly an individual 100 better show
 
 Stock vs Tweaked 
 
-999 samples tweaked
+# 999 samples tweaked
 Total System Input Lag (ms) : 12.4615045045045 avg
 Total System Input Lag (ms) : 2.82409992856889 stdev
 Display Latency (ms) : 11.9500940940941 avg
@@ -364,7 +364,7 @@ Click Time (ms) : 0.291183204678331 stdev
 
 
 ---------------------------------------------------
-998 samples Tweaked (excluding 62.118 outlier)
+# 998 samples Tweaked (excluding 62.118 outlier)
 Total System Input Lag (ms) : 12.411748496994 avg
 Total System Input Lag (ms) : 2.34688617021802 stdev
 Display Latency (ms) : 11.9005561122244 avg
@@ -374,8 +374,8 @@ Click Time (ms) : 0.291247601404074 stdev
 
 
 
----------------------------------------------------
-999 samples Stock
+------------------------------------------
+# 999 samples Stock
 Total System Input Lag (ms) : 12.709015015015 avg
 Total System Input Lag (ms) : 2.40129656167851 stdev
 Display Latency (ms) : 12.1976936936937 avg
@@ -385,8 +385,8 @@ Click Time (ms) : 0.291183204678331 stdev
 
 
 
----------------------------------------------------
-998 samples Stock Excluding outlier
+------------------------------------------
+# 998 samples Stock Excluding outlier
 Total System Input Lag (ms) : 12.6910460921844 avg
 Total System Input Lag (ms) : 2.33433629060439 stdev
 Display Latency (ms) : 12.1792845691383 avg
@@ -399,7 +399,7 @@ By the way I dont use 1000 samples because test 6 for stock was missing a sample
 
 Now heres the stock data
 
-5 tests 500 samples
+# 5 tests 500 samples
 Total System Input Lag (ms) : 12.839446 avg
 Total System Input Lag (ms) : 2.46461056346496 stdev
 Display Latency (ms) : 2.4568279754688 stdev
@@ -407,7 +407,7 @@ Display Latency (ms) : 12.337934 avg
 Click Time (ms) : 0.501512 avg 
 Click Time (ms) : 0.283325531093014 stdev
 -----------------------------------------------
-Another 5 Tests 500 samples
+# Another 5 Tests 500 samples
 Total System Input Lag (ms) : 12.573468 avg
 Total System Input Lag (ms) : 2.33148066368698 stdev
 Display Latency (ms) : 2.3005500830503 stdev                         
@@ -417,7 +417,7 @@ Click Time (ms) : 0.288250356412519 stdev
 
 ------------------------------------------------
 
-5 tests (30 outlier excluded) 499 samples
+# 5 tests (30 outlier excluded) 499 samples
 Total System Input Lag (ms) : 12.8229879227053 avg 
 Total System Input Lag (ms) : 2.32109805615671 stdev
 Display Latency (ms) : 12.3194782608696 avg
@@ -427,7 +427,7 @@ Click Time (ms) : 0.289133578642597 stdev
 -----------------------------------------------------------
 
 
-Another 5 Tests 499 samples (for the outlier excluded test to get an accurate stdev)
+# Another 5 Tests 499 samples (for the outlier excluded test to get an accurate stdev)
 Total System Input Lag (ms) : 12.0571723446894  avg
 Total System Input Lag (ms) :  2.30181933333831 stdev
 Display Latency (ms) : 2.30181933333831 stdev                         
@@ -438,9 +438,9 @@ Click Time (ms) : 0.288218826279961 stdev
 
 and heres the tweaked data
 
-5 vs 5 tests  
+# 5 vs 5 tests  
 
-499 samples 
+# 499 samples 
 
 Total System Input Lag (ms) : 12.5463386773547  avg
 Total System Input Lag (ms) : 3.21268410838166 stdev
@@ -449,7 +449,7 @@ Display Latency (ms) : 12.031993987976 avg
 Click Time (ms) : 0.514342685370742 avg
 Click Time (ms) : 0.293859166336808 stdev
 
-Another 499 samples 
+# Another 499 samples 
 
 Total System Input Lag (ms) : 12.37684  avg
 Total System Input Lag (ms) : 2.37403588835519 stdev
@@ -459,7 +459,7 @@ Click Time (ms) : 0.50848 avg
 Click Time (ms) : 0.288752415600338 stdev
 
 
-498 samples (outlier excluded)
+# 498 samples (outlier excluded)
 
 Total System Input Lag (ms) : 12.446797188755  avg
 Total System Input Lag (ms) : 2.32116621824211 stdev
@@ -469,7 +469,7 @@ Click Time (ms) : 0.513439759036145 avg
 Click Time (ms) : 0.293460929749222 stdev
 
 
-Another 498 samples 
+# Another 498 samples 
 
 Total System Input Lag (ms) : 12.3889578313253  avg
 Total System Input Lag (ms) : 2.37103620477101 stdev
