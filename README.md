@@ -501,3 +501,12 @@ Hope this helps you learn about latency. If you liked this information consider 
 https://www.osrtt.com/osltt
 
 65ksps 
+
+
+# Game
+
+## Counter strike 2
+## Lowest Settings 1440p
+## controlled testing environment 
+
+
