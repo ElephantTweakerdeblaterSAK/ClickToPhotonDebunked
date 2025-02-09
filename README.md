@@ -508,5 +508,6 @@ https://www.osrtt.com/osltt
 ## Counter strike 2
 ## Lowest Settings 1440p
 ## controlled testing environment 
+## Latency flash was used
 
 
