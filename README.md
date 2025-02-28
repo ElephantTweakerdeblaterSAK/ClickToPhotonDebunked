@@ -1,3 +1,8 @@
+# This repository is getting major updates in the future
+
+there is much more to this. I will be studying information about latency.
+
+_____________________
 # ClickToPhotonDebunked
 Click to Photon - one of the most respected ways to measure latency for gaming. What if Click to Photon doesn't represent latency properly at all?
 
