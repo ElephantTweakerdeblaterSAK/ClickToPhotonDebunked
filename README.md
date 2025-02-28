@@ -1,4 +1,4 @@
-# This repository is getting major updates in the future
+# This repository is getting major updates in the future , make sure to ⭐️ the repository for future updates.
 
 there is much more to this. I will be studying information about latency.
 
